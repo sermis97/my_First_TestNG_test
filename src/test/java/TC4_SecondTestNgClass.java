@@ -28,15 +28,3 @@ public class TC4_SecondTestNgClass {
         System.out.println(("Closing Browser"));
     }
 }
-  /*
-  PS: The results get listed according to the alphabetic orders in Default Suite
-  ****Default Suite consists of
-            1. my_First_TestNG_test
-            2.TC2_openBrowser
-            3.addToCart
-            4.closeBrowser
-            5.logOut
-            6.login
-            7.openBrowser
-            8.signUp
-   */
