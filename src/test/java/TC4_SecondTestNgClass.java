@@ -17,7 +17,6 @@ public class TC4_SecondTestNgClass {
     @Test
     public void addToCart() {
         System.out.println(("Add items to cart"));
-
     }
     @Test
     public void logOut() {
