@@ -1,0 +1,9 @@
+
+<suite name="Suite1" verbose="1" >
+      <test name="myTest" >
+        <classes>
+           <class name="TC3_beforeTest_afterTest" />
+
+        </classes>
+      </test>
+</suite>
