@@ -4,7 +4,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 public class TC5_prioirtyParameter {
 WebDriver driver;
 @BeforeTest
