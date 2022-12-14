@@ -1,7 +1,6 @@
 import org.testng.annotations.Test;
 
 public class TC4_SecondTestNgClass {
-
     @Test
     public void openBrowser() {
         System.out.println(("Let's open the browser"));
